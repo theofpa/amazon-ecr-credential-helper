@@ -13,7 +13,7 @@
 
 FROM golang:1.13
 
-WORKDIR /go/src/github.com/awslabs/amazon-ecr-credential-helper
+WORKDIR /go/src/github.com/theofpa/amazon-ecr-credential-helper
 
 COPY . .
 
