@@ -22,9 +22,9 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/ecr"
 	"github.com/aws/aws-sdk-go/service/ecrpublic"
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/api/mocks"
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/cache"
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/cache/mocks"
+	"github.com/theofpa/amazon-ecr-credential-helper/ecr-login/api/mocks"
+	"github.com/theofpa/amazon-ecr-credential-helper/ecr-login/cache"
+	"github.com/theofpa/amazon-ecr-credential-helper/ecr-login/cache/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

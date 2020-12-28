@@ -26,7 +26,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 
-	"github.com/awslabs/amazon-ecr-credential-helper/ecr-login/cache"
+	"github.com/theofpa/amazon-ecr-credential-helper/ecr-login/cache"
 )
 
 const (
